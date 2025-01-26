@@ -10,7 +10,7 @@
 </h4>
 
 <h1>Previw</h1>
-![pages2](https://github.com/user-attachments/assets/b061c327-b0c3-442e-affa-0d1a6a879af2)
+![pages2](https://github.com/user-attachments/assets/c073bfba-ecad-44dd-b2c1-710abe9df276)
 
 <h1>Free Projects</h1>
 <h4>
