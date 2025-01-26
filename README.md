@@ -10,7 +10,8 @@
 </h4>
 
 <h1>Previw</h1>
-<img src="![pages](https://github.com/user-attachments/assets/1514e2bc-97c8-407e-ac6c-50b49ba98ee6)">
+![pages](https://github.com/user-attachments/assets/1514e2bc-97c8-407e-ac6c-50b49ba98ee6)"![pages](https://github.com/user-attachments/assets/625fd9e4-9c0c-45bb-a715-100fc6ad83b8)
+
 
 
 
