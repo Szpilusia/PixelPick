@@ -14,6 +14,8 @@
 
 ![pages](https://github.com/user-attachments/assets/5db6d3d8-1998-471e-92f1-eb738064d1f9)
 
+</br>
+</br>
 <h1>Free Projects</h1>
 <h4>
   On PixelPick, you get access to free projects that you can download and use in your own work.      With our platform, you can easily share your work with others and showcase it in an attractive     way.
