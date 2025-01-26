@@ -9,6 +9,8 @@
   it in your own ideas. Easy, fast, and no hassle!
 </h4>
 
+![pages](https://github.com/user-attachments/assets/5db6d3d8-1998-471e-92f1-eb738064d1f9)
+
 <h1>Free Projects</h1>
 <h4>
   On PixelPick, you get access to free projects that you can download and use in your own work.      With our platform, you can easily share your work with others and showcase it in an attractive     way.
@@ -29,5 +31,3 @@
 <h4>
   If you have any questions or want to get in touch, you can do so directly through the           <a href="https://pixelpick.pl/">Pixelpick</a> website.
 </h4>
-
-![pages](https://github.com/user-attachments/assets/5db6d3d8-1998-471e-92f1-eb738064d1f9)
