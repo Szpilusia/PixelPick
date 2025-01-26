@@ -38,8 +38,8 @@
 </br>
 <h1>Contact</h1>
 <h4>
-  If you have any questions or want to get in touch, you can do so directly through the           <a href="https://pixelpick.pl/">Pixelpick</a> website.
+  If you have any questions or want to get in touch, you can do so directly through the <a href="https://pixelpick.pl/">Pixelpick</a> website.
 </h4>
 
-
+</br>
 
