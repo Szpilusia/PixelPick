@@ -1,15 +1,20 @@
 <h1>
   PixelPick
 </h1>
-
+</br>
+</br>
+</br>
 <h4>
   PixelPick is a website that allows you to discover and download amazing projects – all for free! 
   Visit <a href="https://pixelpick.pl/pages.html">pixelpick.pl</a>, browse the available          
   projects, and if you find something you like, simply download it and use     
   it in your own ideas. Easy, fast, and no hassle!
 </h4>
-
 </br>
+</br>
+</br>
+
+<h1>Preview</h1>
 
 ![pages](https://github.com/user-attachments/assets/5db6d3d8-1998-471e-92f1-eb738064d1f9)
 
