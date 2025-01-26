@@ -1,4 +1,4 @@
-<h1>
+<h1 style="color:white">
   <a href="https://pixelpick.pl">PixelPick</a>
 </h1>
 
@@ -10,6 +10,7 @@
 </h4>
 
 <h1>Previw</h1>
+![pages](https://github.com/user-attachments/assets/1514e2bc-97c8-407e-ac6c-50b49ba98ee6)
 
 
 
