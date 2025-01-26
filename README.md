@@ -10,7 +10,7 @@
 </h4>
 
 <h1>Previw</h1>
-![pages2](https://github.com/user-attachments/assets/380dce40-44bb-4555-a266-eb56ad07db2d)
+
 
 
 <h1>Free Projects</h1>
