@@ -1,9 +1,6 @@
 <h1>
   PixelPick
 </h1>
-</br>
-</br>
-</br>
 <h4>
   PixelPick is a website that allows you to discover and download amazing projects – all for free! 
   Visit <a href="https://pixelpick.pl/pages.html">pixelpick.pl</a>, browse the available          
@@ -11,8 +8,7 @@
   it in your own ideas. Easy, fast, and no hassle!
 </h4>
 </br>
-</br>
-</br>
+
 
 <h1>Preview</h1>
 
