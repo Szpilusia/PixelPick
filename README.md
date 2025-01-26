@@ -9,13 +9,6 @@
   it in your own ideas. Easy, fast, and no hassle!
 </h4>
 
-<h1>Previw</h1>
-![pages](https://github.com/user-attachments/assets/5db6d3d8-1998-471e-92f1-eb738064d1f9)
-
-
-
-
-
 <h1>Free Projects</h1>
 <h4>
   On PixelPick, you get access to free projects that you can download and use in your own work.      With our platform, you can easily share your work with others and showcase it in an attractive     way.
@@ -29,9 +22,12 @@
     <li>If you modify a project, you must share it under the same license and give appropriate          credit to the original creator.
     </li>
   </ul>
+  
 </h4>
 
 <h1>Contact</h1>
 <h4>
   If you have any questions or want to get in touch, you can do so directly through the           <a href="https://pixelpick.pl/">Pixelpick</a> website.
 </h4>
+
+![pages](https://github.com/user-attachments/assets/5db6d3d8-1998-471e-92f1-eb738064d1f9)
