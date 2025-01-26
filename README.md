@@ -1,5 +1,5 @@
-<h1 style="color:white;">
-  <a href="https://pixelpick.pl">PixelPick</a>
+<h1>
+  PixelPick
 </h1>
 
 <h4>
