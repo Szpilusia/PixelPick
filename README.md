@@ -21,6 +21,7 @@
   On PixelPick, you get access to free projects that you can download and use in your own work.      With our platform, you can easily share your work with others and showcase it in an attractive     way.
 </h4>
 
+</br>
 <h1>License</h1>
 <h4>
   All projects on PixelPick are shared under the CC BY-NC-SA license. This means you can:
@@ -29,9 +30,9 @@
     <li>If you modify a project, you must share it under the same license and give appropriate          credit to the original creator.
     </li>
   </ul>
-  
 </h4>
 
+</br>
 <h1>Contact</h1>
 <h4>
   If you have any questions or want to get in touch, you can do so directly through the           <a href="https://pixelpick.pl/">Pixelpick</a> website.
