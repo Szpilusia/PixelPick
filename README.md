@@ -4,11 +4,16 @@
 </h1>
 
 <h4>
-  PixelPick is a website that allows you to discover and download amazing projects – all for free! 
+  PixelPick is a website that allows you to discover and download amazing projects for free! 
   Visit <a href="https://pixelpick.pl/pages.html">Pixelpick</a>, browse the available          
   projects, and if you find something you like, simply download it and use     
   it in your own ideas. Easy, fast, and no hassle!
 </h4>
+
+<h5>
+  Some of my designs were created on request and aren’t available for download, but you can still explore them and maybe find a spark of inspiration. :p
+</h5>
+
 </br>
 
 
