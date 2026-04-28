@@ -1,3 +1,4 @@
+
 </br>
 <h1>
   PixelPick
@@ -18,7 +19,7 @@
 
 
 <h1>Preview</h1>
-
+<img width="1080" height="1080" alt="Mockupp" src="https://github.com/user-attachments/assets/43d06fec-25c4-4c09-8756-e5cf701848df" />
 ![pages](https://github.com/user-attachments/assets/5db6d3d8-1998-471e-92f1-eb738064d1f9)
 
 </br>
