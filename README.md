@@ -49,7 +49,3 @@
 </h4>
 
 </br>
-
-
-<img width="700" height="auto" alt="Mockup" src="" />
-//https://github.com/user-attachments/assets/5db6d3d8-1998-471e-92f1-eb738064d1f9
