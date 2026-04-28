@@ -1,0 +1,307 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Stable web page created by PixelPick">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" blocking="render" href="https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap"  />
+    <link rel="preload" href="./css.css" as="style">
+    <link rel="stylesheet" href="./css.css" />
+    <link rel="icon" type="image/x-icon" href="./images/HorseLogo.webp">
+    <link rel="preload" fetchpriority="high" href="./images/12.webp" as="image" type="image/webp" />
+    <title>Horse Valley</title>
+  </head>
+  <body>
+    <!--Navigation-->
+    <nav id="navbar" class="absolute fade-nav">
+      <div id="logo" class="NavLogo">
+        <div class="hero-title-img">
+          <a href="#">
+            <img src="./images/HorseLogo256.webp" alt="logo stajni" />
+          </a>
+        </div>
+      </div>
+
+      <div class="NavLinks scroll-indicator">
+        <a href="#Kontakt">Kontakt</a>
+        <a href="">Hipoterapia</a>
+        <a href="">Jazda konna</a>
+        <a href="#AboutUs">O stajni</a>
+      </div>
+
+      <div id="hamburger">
+        <button onclick="Hamburger()">
+          <img id="menu" src="./images/menu.svg" alt="menu button witch shows on phone displays">
+        </button>
+      </div>
+    </nav> 
+
+    <div id="Tabs">
+      <div id="hiddenMenu">
+        <div>
+          <div class="hidenNav">
+            <div class="hero-title-img">
+              <a href="#">
+                <img src="./images/HorseLogo.webp" alt="logo stajni pod grojcem" />
+              </a>
+            </div>
+
+            <button onclick="Hamburger()">
+              <img id="close" src="./images/close.svg" alt="close button witch shows in page menu">
+            </button>
+          </div>
+          
+          <div id="Tablinks" class="Tablinks">
+            <a onclick="Hamburger()" href="#Kontakt">
+              <span>Kontakt</span>
+              <img src="./images/chevronRight.svg" alt="chevronRight in menu going to contact section">
+            </a>
+            <a onclick="Hamburger()" href="">
+              <span>Hipoterapia</span>
+              <img src="./images/chevronRight.svg" alt="chevronRight in menu going to hipotherapy section">
+            </a>
+            <a onclick="Hamburger()" href="">
+              <span>Jazda konna</span>
+              <img src="./images/chevronRight.svg" alt="chevronRight in menu going to horse riding lessons section">
+            </a>
+            <a onclick="Hamburger()" href="#AboutUs">
+              <span>O stajni</span>
+              <img src="./images/chevronRight.svg" alt="chevronRight in menu going to informations about stable section">
+            </a>
+          </div>
+        </div>
+
+
+        <div class="MenuSocial">
+          <div class="social">
+            <ul>
+              <li>
+                <a>
+                  <img src="./images/instagram.webp" alt="the instagram icon">
+                </a>
+              </li>
+              <li>
+                <a>
+                  <img src="./images/facebook.webp" alt="the facebook icon">
+                </a>
+              </li>
+              <li>
+                <a>
+                  <img src="./images/email.webp" alt="the E-mail icon">
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+      <!-- Hero Section -->
+      <main class="hero">
+
+        <!-- Left Side -> Text Content -->
+        <div class="hero-content">
+          <h1 class="hero-title">
+            <div class="hero-title-name">Horse Valley</div>
+            <span class="hero-title-accent">Jazda konna dla każdego</span>
+          </h1>
+
+          <p class="hero-description">
+           Uczymy jazdy konnej na każdym poziomie zaawansowania, prowadzimy zajęcia dla dzieci i dorosłych oraz tworzymy miejsce, w którym każdy może poczuć wyjątkową więź z koniem.
+          </p>
+
+          <div class="hero-buttons">
+            <a><button class="btn btn-primary scroll-indicator">Umów się na jazdę</button></a>
+            <a href="#WhatWeDo"><button class="btn btn-outline scroll-indicator">Dowiedz się więcej</button></a>
+          </div>
+        </div>
+
+        <!-- Right Side -> Image -->
+        <div class="hero-image">
+          <div class="image-wrapper">
+            <div class="ornamental-frame"></div>
+            <div class="main-image">
+              <img src="./images/12.webp" alt="Majestic Horse" />
+            </div>
+          </div>
+        </div>
+      </main>
+
+
+    <!-- What we do Section -->
+      <section id="WhatWeDo" class="section section-light">
+        <div class="container">
+          <div class="grid">
+            <div class="card fade-in">
+              <img src="./images/Us1.webp" alt="Zakładka dotycząca zajęć z jazdy konnej">
+              <div class="overlay">
+                <h2 class="card-title">Jazda konna</h2>
+              </div>
+            </div>
+            <div class="card fade-in">
+              <img src="./images/10.webp" alt="Zakładka dotycząca zajęć z hipoterapi">
+              <div class="overlay">
+                <h2 class="card-title">Szkolenia</h2>
+              </div>
+            </div>
+            <div class="card fade-in">
+              <img src="./images/9.webp" alt="Zakładka dotycząca sesji zdjęciowych">
+              <div class="overlay">
+                <h2 class="card-title">Sesje zdjęciowe</h2>
+              </div>
+            </div>
+            <div class="card fade-in">
+              <img src="./images/6.webp" alt="Zakładka dotycząca półkoloni">
+              <div class="overlay">
+                <h2 class="card-title">Półkolonie</h2>
+              </div>
+            </div>
+          </div>
+        </div>
+        </div>
+      </section>
+
+      <!-- Feature Section -->
+      <section id="AboutUs" class="section section-dark">
+        <div class="container">
+          <div class="feature-section fade-in">
+            <div class="feature-image">
+              <img src="./images/14.webp" alt="two cute horses loking over the fance">
+            </div>
+            <div class="feature-text">
+              <h3>Poznaj nas</h3>
+              <p>
+                Horse Valley to miejsce, gdzie pasja do koni spotyka się z naturą i spokojem otaczających krajobrazów.
+                Tworzymy przestrzeń pełną ciepła, wzajemnego szacunku oraz prawdziwej miłości do zwierząt.
+              </p>
+              <p>
+                Naszym celem jest nie tylko nauka jazdy konnej, lecz także budowanie wyjątkowej więzi między człowiekiem a koniem.
+                Oferujemy zajęcia dla dzieci, młodzieży i dorosłych od pierwszego kontaktu z koniem po doskonalenie umiejętności jeździeckich.
+              </p>
+              <p>
+                Wierzymy, że każda chwila spędzona w siodle to okazja do odpoczynku, kontaktu z naturą i odnalezienia wewnętrznej harmonii.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!--Gallery-->
+      <section class="gallery">
+        <div class="album">
+            <div class="responsive-container-block">
+              <img class="img" src="./images/5.webp" alt="horse image">
+              <img class="img" src="./images/16422.webp" alt="horse image">
+              <img class="img" src="./images/11.webp" alt="horse image">
+              <img class="img" src="./images/4.webp" alt="horse image"> 
+            </div>
+
+            <div class="responsive-container-block">
+              <img class="img" src="./images/2.webp" alt="horse image">
+              <img class="img" src="./images/1.webp" alt="horse image">
+            </div>
+            
+            <div class="responsive-container-block">
+              <img class="img" src="./images/8.webp" alt="horse image">
+              <img class="img" src="./images/9.webp" alt="horse image">
+            </div>
+
+            <div class="responsive-container-block">
+              <img class="img" src="./images/3.webp" alt="horse image">
+              <img class="img" src="./images/16422phone.webp" alt="horse image"> 
+            </div>
+
+            
+        </div>
+      </section>
+
+      <!-- Quote Section -->
+      <section class="parallax">
+        <div class="contact">
+          <div class="contact-content fade-in">
+            <h3>Masz pytania? Skontaktuj się z nami</h3>
+            <button>Kontakt</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Footer -->
+      <footer id="Kontakt">
+        <section class="tabs">
+          <!--links-->
+          <div class="informations">
+            <div class="links">
+              <div class="column">
+                <h3>Jazda konna</h3>
+                <ul>
+                  <li><a>Nauka jazdy konnej</a></li>
+                  <li><a>Szkolenie jeździeckie</a></li>
+                  <li><a>Sesje zdjęciowe</a></li>
+                  <li><a>Imprezy okolicznościowe</a></li>
+                  <li><a>Hipoterapia</a></li>
+                  <li><a>Półkolonie</a></li>
+                </ul>
+              </div>
+
+              <div class="column">
+                <h3>Poznaj nas lepiej</h3>
+                <ul>
+                  <li><a>Nasze konie</a></li>
+                  <li><a>Kadra instruktorska</a></li>
+                  <li><a>Regulamin stajni</a></li>
+                </ul>
+              </div>
+
+              <div class="column">
+                <h3>Kontakt</h3>
+                <ul>
+                  <li><a>Horse Valley</a></li>
+                  <li><a>Somwhere 1,</a></li>
+                  <li><a>99-000</a></li>
+                  <li><a>Tel: +48 000 000 000</a></li>
+                  <li><a>E-mail: Example@gmail.com</a></li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="social">
+              <ul>
+                <li>
+                  <a>
+                    <img src="./images/instagram.webp" alt="the instagram icon">
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    <img src="./images/facebook.webp" alt="the facebook icon">
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    <img src="./images/email.webp" alt="the E-mail icon">
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <!--google maps-->
+          <div class="map">
+            <div class="column">
+              <div>
+                <iframe title="myStableLocation" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8614.55109287993!2d19.92064736475848!3d50.065288746653714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47165b4f7340d81b%3A0x60529c9b4a790090!2sGoogle%20Krakow!5e0!3m2!1spl!2spl!4v1772998268939!5m2!1spl!2spl" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+              </div>
+            </div>
+          </div>
+
+        </section>
+        <div class="footer-decoration"></div>
+        <div>
+          Create by <a style="color:#f33f9c; font-weight: 600;" href="https://pixelpick.pl/">Pixelpick</a>
+        </div>
+      </footer>
+    <script blocking="render" src="./js.js"></script>
+  </body>
+</html>
