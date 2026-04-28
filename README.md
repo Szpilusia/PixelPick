@@ -19,8 +19,7 @@
 
 
 <h1>Preview</h1>
-<img width="700" height="auto" alt="Mockup" src="" />
-//https://github.com/user-attachments/assets/5db6d3d8-1998-471e-92f1-eb738064d1f9
+
 ![pages](https://github.com/user-attachments/assets/43d06fec-25c4-4c09-8756-e5cf701848df)
 
 </br>
@@ -44,9 +43,13 @@
 
 </br>
 <h1>Contact</h1>
+
 <h4>
   If you have any questions or want to get in touch, you can do so directly through the <a href="https://pixelpick.pl/">Pixelpick</a> website.
 </h4>
 
 </br>
 
+
+<img width="700" height="auto" alt="Mockup" src="" />
+//https://github.com/user-attachments/assets/5db6d3d8-1998-471e-92f1-eb738064d1f9
